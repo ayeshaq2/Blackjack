@@ -1,0 +1,36 @@
+body {
+    background-color: green;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 40px;
+
+}
+
+h1 {
+    color: goldenrod; 
+    font-size: 70px;
+}
+
+p {
+    font-weight: bold;
+    
+
+}
+
+#message-el {
+    font-style: italic;
+    font-weight: bold;
+    
+}
+
+button {
+    color: #016f32;
+    width: 200px;
+    background: goldenrod;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px; 
+    margin-top: 10px;
+    
+}
